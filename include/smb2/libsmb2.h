@@ -19,6 +19,8 @@
 #ifndef _LIBSMB2_H_
 #define _LIBSMB2_H_
 
+#include <stddef.h>
+
 #ifdef __APPLE__ /* Some platforms goes well without stdint.h include */
 #include <stdint.h>
 #endif

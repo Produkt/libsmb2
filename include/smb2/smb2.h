@@ -20,6 +20,7 @@
 #define _SMB2_H_
 
 #include "smb2-errors.h"
+#include <time.h>
 
 #ifdef __cplusplus
 extern "C" {
